@@ -1,0 +1,2 @@
+# Mencintai02
+apaananjinkliat²kagakusahkesinibacodwkwkwk
