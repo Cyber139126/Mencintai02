@@ -16,9 +16,9 @@ endc='\E[0m'
 enda='\033[0m'
 
 echo $i"#--Masukan Username!"
-read -p "#--•> " user
+read -p "#--•> " Araiza
 echo $i"#--Masukan Password!"
-read -p "#--•> " pass
+read -p "#--•> " Cyber139126
 
 if [ $user = 'MiSetya' ] | [ $pass = 'Dark' ]
 then
@@ -34,6 +34,6 @@ echo $i"Murah kok cuma 10k akses permanen :)"
 sleep 3
 echo $i"Silahkan hubungi gua untuk membeli username & password"
 sleep 5
-xdg-open http://wa.me/=6282386234828
+xdg-open http://wa.me/=6285609447492
 exit
 fi
